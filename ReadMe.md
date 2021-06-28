@@ -5,3 +5,8 @@
 Nihon's Lua Bytecode Interperter For Roblox Used DeaddLocust's Lua Bytecode Interperter
 As A Base And Will Update It Further Improving It As It Goes On Adding More Functions, And Overall Just Working On It Set To (Release / x86)
 I Don't Claim Ownership Over The Lua Bytecode Interperter At All None Of It Is Mine
+
+## Updates
+
+I No Longer Update This Nor Does Anyone Else Its Poorly Written And Useless I Recommend Don't Use This But If You Want To 
+You Can Attempt To Fix It
